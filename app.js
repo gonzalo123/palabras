@@ -128,8 +128,24 @@ function findGreekLetter(letter) {
     return null;
 }
 
+function removeDuplicates(result) {
+    const uniqueLetters = [];
+    const seenCharacters = new Set();
+
+    for (const entry of result) {
+        const key = entry.character + entry.type;
+
+        if (!seenCharacters.has(key)) {
+            uniqueLetters.push(entry);
+            seenCharacters.add(key);
+        }
+    }
+
+    return uniqueLetters;
+}
+
 function showPopup() {
-    const letters = identifyLetters(word.greek);
+    const letters = removeDuplicates(identifyLetters(word.greek));
     lettersList.innerHTML = '';
     placeTextOnId('greek2', word.greek);
     letters.forEach(letter => {
