@@ -3,10 +3,18 @@ function placeTextOnId(id, text) {
     element.innerText = text;
 }
 
+function isMobileDevice() {
+    return /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+}
+
 function speak(text) {
     let utterance = new SpeechSynthesisUtterance(text);
     utterance.lang = 'el-GR';
-    utterance.rate = 0.7;
+    if (isMobileDevice()) {
+        utterance.rate = 1.0; // Ajustar la velocidad para dispositivos móviles
+    } else {
+        utterance.rate = 0.7; // Velocidad para dispositivos de escritorio
+    }
     window.speechSynthesis.speak(utterance);
 }
 
