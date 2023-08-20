@@ -151,7 +151,7 @@ function showPopup() {
     letters.forEach(letter => {
         const listItem = document.createElement('li');
         let greekLetter = findGreekLetter(letter);
-        let lower = letter.character === 'sigma' ? "σ/ς" : greekLetter.lower;
+        let lower = greekLetter.name === 'sigma' ? "σ/ς" : greekLetter.lower;
         let upper = greekLetter.upper;
 
         listItem.textContent = `${letter.character}: ${greekLetter.name} [${lower} ${upper}] ${greekLetter.afi}`;
