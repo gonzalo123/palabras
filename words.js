@@ -1065,7 +1065,7 @@ const GREEK_WORDS = [
         "spanish": "Recto / Correcto"
     },
     {
-        "greek": "Ουρανός",
+        "greek": "Οὐρανός",
         "fonema": "Ouranós",
         "spanish": "Urano"
     },
