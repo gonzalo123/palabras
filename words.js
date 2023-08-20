@@ -557,7 +557,7 @@ const GREEK_WORDS = [
     {
         "greek": "Ἡρακλῆς",
         "fonema": "Hēraklês",
-        "spanish": "Hércules"
+        "spanish": "Heracles"
     },
     {
         "greek": "Ἑρμῆς",
