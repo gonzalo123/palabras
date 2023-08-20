@@ -997,7 +997,7 @@ const GREEK_WORDS = [
     {
         "greek": "Νίκη",
         "fonema": "Níkē",
-        "spanish": "Nike"
+        "spanish": "Victoria"
     },
     {
         "greek": "Νικόδημος",
