@@ -11,6 +11,7 @@ Tengo una lista de palabras en griego.
 * Pulso sobre ↺ y empiezo con otra palabra
 
 Nota: Por algún motivo que desconozco (y que no me apetece mirar), desde un móvil android no lee bien las palabras en griego. Las lee letra a letra en lugar de la palabra completa.
+
 <a href="https://gonzalo123.github.io/palabras/">Palabras</a>
 
 
