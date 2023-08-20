@@ -1,6 +1,6 @@
 # Palabras griegas
 
-Pequeña aplicación que me he hecho para mí para practicar la lectura de palabras en griego antíguo.
+Pequeña aplicación que me he hecho para mí para practicar la lectura de palabras en griego antiguo.
 
 Tengo una lista de palabras en griego. 
 * La aplicación selecciona una palabra aleatoria de la lista
