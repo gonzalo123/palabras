@@ -129,12 +129,9 @@ function findGreekLetter(letter) {
 }
 
 function showPopup() {
-    alert("1");
     const letters = identifyLetters(word.greek);
-    alert("2");
     lettersList.innerHTML = '';
     placeTextOnId('greek2', word.greek);
-    alert("3");
     letters.forEach(letter => {
         const listItem = document.createElement('li');
         let greekLetter = findGreekLetter(letter);
@@ -144,7 +141,6 @@ function showPopup() {
         listItem.textContent = `${letter.character}: ${greekLetter.name} [${lower} ${upper}] ${greekLetter.afi}`;
         lettersList.appendChild(listItem);
     });
-    alert("4");
     popup.style.display = 'flex';
 }
 
