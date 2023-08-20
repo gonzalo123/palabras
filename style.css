@@ -27,8 +27,8 @@ body {
 }
 
 .fonema {
-
     background-color: #f6f5f5;
+    color: #797979;
     border: none;
     font-size: 15px;
     display: flex;

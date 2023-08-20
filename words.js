@@ -1603,5 +1603,10 @@ const GREEK_WORDS = [
         "greek": "Ζεύς",
         "fonema": "Zeús",
         "spanish": "Zeus"
+    },
+    {
+        "greek": "σωφροσύνη",
+        "fonema": "Sophrosyne",
+        "spanish": "Moderación"
     }
 ];

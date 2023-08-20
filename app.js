@@ -3,11 +3,10 @@ function placeTextOnId(id, text) {
     element.innerText = text;
 }
 
-
 function speak(text) {
     let utterance = new SpeechSynthesisUtterance(text);
-    //utterance.lang = 'el-GR';
-    //utterance.rate = 0.7;
+    utterance.lang = 'el-GR';
+    utterance.rate = 0.7;
     window.speechSynthesis.speak(utterance);
 }
 
