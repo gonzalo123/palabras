@@ -520,9 +520,9 @@ const GREEK_WORDS = [
         "spanish": "Héctor"
     },
     {
-        "greek": "Εκτωρις",
-        "fonema": "Hektoris",
-        "spanish": "Astianacte"
+        "greek": "Εκτωρ",
+        "fonema": "Hector",
+        "spanish": "Héctor"
     },
     {
         "greek": "Ελένη",
