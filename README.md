@@ -5,6 +5,7 @@ Pequeña aplicación que me he hecho para mí para practicar la lectura de palab
 Tengo una lista de palabras en griego. 
 * La aplicación selecciona una palabra aleatoria de la lista
 * Trato de leerla
+* Si quiero una pista puedo pulsar sobre la palabra en griego y me da información sobre sus letras.
 * Pulso sobre la interrogación y me muestra el resultado. Me muestra la traducción y la representación fonética.
 * Si pulso sobre la representación fonética me lo lee.
 * Pulso sobre ↺ y empiezo con otra palabra

@@ -70,8 +70,8 @@ const GREEK_WORDS = [
         "spanish": "Audición"
     },
     {
-        "greek": "ἀλήθεια",
-        "fonema": "alḗtheia",
+        "greek": "αλήθεια",
+        "fonema": "alētheia",
         "spanish": "Verdad"
     },
     {
