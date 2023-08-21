@@ -1613,9 +1613,18 @@ const GREEK_WORDS = [
     {"greek": "αὐτάρκεια", "fonema": "autarkeia", "spanish": "autosuficiencia"},
     {"greek": "αμαρτία", "fonema": "hamartia", "spanish": "error trágico / pecado"},
     {"greek": "εὐδαιμονία", "fonema": "eudaimonía ", "spanish": "felicidad"},
-    {"greek": "καιρός", "fonema": "kairós ", "spanish": "momento adecuado u oportuno"},
+    {"greek": "καιρός", "fonema": "kairós", "spanish": "momento adecuado u oportuno"},
     {"greek": "Φρόνησις", "fonema": "phronēsis ", "spanish": "sabiduría práctica"},
-    {"greek": "πρᾱξις", "fonema": "praxis ", "spanish": "práctica"},
-    {"greek": "σκοπός", "fonema": "skopos ", "spanish": "objetivo, propósito meta específica"},
-    {"greek": "τέλος", "fonema": "telos ", "spanish": "razón final, propósito último"}
+    {"greek": "πρᾱξις", "fonema": "praxis", "spanish": "práctica"},
+    {"greek": "σκοπός", "fonema": "skopos", "spanish": "objetivo, propósito meta específica"},
+    {"greek": "τέλος", "fonema": "telos", "spanish": "razón final, propósito último"},
+    {"greek": "Ηθική", "fonema": "Ēthikḗ", "spanish": "Ética"},
+    {"greek": "Οντολογία", "fonema": "Ontología", "spanish": "Ontología"},
+    {"greek": "Παράδειγμα", "fonema": "Parádeigma", "spanish": "Ejemplo, modelo"},
+    {"greek": "Πραγματικότητα", "fonema": "Pragmatikótēta", "spanish": "Realidad"},
+    {"greek": "Ιδέα", "fonema": "Idéa", "spanish": "Idea"},
+    {"greek": "Κόσμος", "fonema": "Kósmos", "spanish": "Mundo, universo, orden"},
+    {"greek": "ψυχή", "fonema": "psyché", "spanish": "alma"},
+    {"greek": "Μυθολογία", "fonema": "Mythología", "spanish": "Mitología"},
+    {"greek": "ενέργεια", "fonema": "energeia", "spanish": "Energía"}
 ];
