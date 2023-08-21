@@ -1608,5 +1608,14 @@ const GREEK_WORDS = [
         "greek": "σωφροσύνη",
         "fonema": "Sophrosyne",
         "spanish": "Moderación"
-    }
+    }, 
+    {"greek": "ἀνάμνησις", "fonema": "anámnēsis", "spanish": "recuerdo"},
+    {"greek": "αὐτάρκεια", "fonema": "autarkeia", "spanish": "autosuficiencia"},
+    {"greek": "αμαρτία", "fonema": "hamartia", "spanish": "error trágico / pecado"},
+    {"greek": "εὐδαιμονία", "fonema": "eudaimonía ", "spanish": "felicidad"},
+    {"greek": "καιρός", "fonema": "kairós ", "spanish": "momento adecuado u oportuno"},
+    {"greek": "Φρόνησις", "fonema": "phronēsis ", "spanish": "sabiduría práctica"},
+    {"greek": "πρᾱξις", "fonema": "praxis ", "spanish": "práctica"},
+    {"greek": "σκοπός", "fonema": "skopos ", "spanish": "objetivo, propósito meta específica"},
+    {"greek": "τέλος", "fonema": "telos ", "spanish": "razón final, propósito último"}
 ];
