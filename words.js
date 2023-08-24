@@ -1626,5 +1626,6 @@ const GREEK_WORDS = [
     {"greek": "Κόσμος", "fonema": "Kósmos", "spanish": "Mundo, universo, orden"},
     {"greek": "ψυχή", "fonema": "psyché", "spanish": "alma"},
     {"greek": "Μυθολογία", "fonema": "Mythología", "spanish": "Mitología"},
-    {"greek": "ενέργεια", "fonema": "energeia", "spanish": "Energía"}
+    {"greek": "ενέργεια", "fonema": "energeia", "spanish": "Energía"},
+    {"greek": "ειδωλον", "fonema": "eidolon", "spanish": "imagen, fantasma, aparición"}
 ];
